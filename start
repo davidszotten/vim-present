@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+cd slides
+vim -u ../vimrc `ls |sort -n`
